@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanksaksena&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanksaksena" /> </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyank-saksena-b8a122218/"><img width="40px" alt="Linkedln" title="Linkedln" src="logo/icons8-linkedin-48.png"/></a>
+  <a href="https://www.linkedin.com/in/shreyank-saksena-b8a122218/"><img width="40px" alt="Linkedln" title="Linkedln" src="iconslinkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/shreyank_saksena/"><img width="40px" alt="Instagram" title="Instagram" src="logo/icons8-instagram-48.png"/></a>
+  <a href="https://www.instagram.com/shreyank_saksena/"><img width="40px" alt="Instagram" title="Instagram" src="icons/insta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/shreyank99"><img width="40px" alt="Twitter" title="Twitter" src="logo/icons8-twitter-logo-48.png"/></a>
+  <a href="https://twitter.com/shreyank99"><img width="40px" alt="Twitter" title="Twitter" src="icons/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
