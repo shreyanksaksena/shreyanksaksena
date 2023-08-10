@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I smurf a lot so these are just one of official ones and Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee**
 
+ <p>
+
 <h3 align="center">Some More Socials If you wanna Connect with me :P</h3>
 <p align="center">
 <a href="https://twitter.com/shreyank99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyank99" height="30" width="40" /></a>
