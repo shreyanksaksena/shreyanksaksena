@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyank Saksena</h1>
-<h3 align="center">A passionate Competitive Programmer Focussed on Solving Intersting problems ,a Full Stack developer and a second penultimate year student from Vellore Institiute of Technology ,India</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=A+Passionate+Competitive+Programmer;Focussed+on+Solving+interesting+Problems;+Second+penultimate+year+student+from+Vellore+Institiute+of+Technology+%2C+India;And+a+Full+Stack+Developer)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanksaksena&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanksaksena" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreyank99" target="blank"><img src="https://img.shields.io/twitter/follow/shreyank99?logo=twitter&style=for-the-badge" alt="shreyank99" /></a> </p>
