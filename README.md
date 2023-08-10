@@ -12,17 +12,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <p>
   
-  <p align="center">
-    
-- 🌱 I’m currently learning **More of CP and Backend Development Node.js and Kafka**
 
-- 💬 Ask me about **CP , Linux**
+<h3 align="center">🌱 I’m currently learning **More of CP and Backend Development Node.js and Kafka**</h3>
 
-- 📫 How to reach me **shreyanksaksena@gmail.com**
+<h3 align="center">- 💬 Ask me about **CP , Linux**</h3>
 
-- ⚡ Fun fact **I smurf a lot so these are just one of official ones and Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee**
+<h3 align="center">- 📫 How to reach me **shreyanksaksena@gmail.com**</h3>
 
- <p>
+<h3 align="center">- ⚡ Fun fact **I smurf a lot so these are just one of official ones and Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee**</h3>
 
 <h3 align="center">Some More Socials If you wanna Connect with me :P</h3>
 <p align="center">
