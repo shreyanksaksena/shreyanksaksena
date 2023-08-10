@@ -15,7 +15,7 @@
 
 <h3 align="center">🌱 I’m currently learning More of CP and Backend Development Node.js and Kafka</h3>
 
-<h3 align="center">- 💬 Ask me about CP , Linux</h3>
+<h3 align="center"> 💬 Ask me about CP , Linux</h3>
 
 <h3 align="center">📫 How to reach me <a href="mailto:shreyanksaksena@gmail.com">shreyanksaksena@gmail.com</a></h3>
 
