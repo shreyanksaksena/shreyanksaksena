@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=A+Passionate+Competitive+Programmer;Focussed+on+Problem+Solving;+Second+penultimate+year+Engineering;+Student+at+;Vellore+Institiute+of+Technology+;And+A+Full+Stack+Developer" alt="Typing SVG" /></a>
   </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyanksaksena&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanksaksena" /> </p>
-<h3 align="center">Some More Socials If you wanna Connect with me :P</h3>
+<h3 align="center">Some Socials If you wanna Connect with me :P</h3>
 <p align="center">
 <a href="https://twitter.com/shreyank99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyank99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyank-saksena-b8a122218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyank-saksena-b8a122218" height="30" width="40" /></a>
