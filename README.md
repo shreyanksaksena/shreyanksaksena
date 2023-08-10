@@ -12,7 +12,7 @@
   <a href="https://twitter.com/shreyank99"><img width="40px" alt="Twitter" title="Twitter" src="logo/icons8-twitter-logo-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<br>
+
 - 🌱 I’m currently learning **More of CP and Backend Development Node.js and Kafka**
 
 - 💬 Ask me about **CP , Linux**
