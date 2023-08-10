@@ -21,12 +21,16 @@
 
 - ⚡ Fun fact **I smurf a lot so these are just one of official ones**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Some More Socials If you wanna Connect with me :P</h3>
+<p align="center">
 <a href="https://twitter.com/shreyank99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyank99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyank-saksena-b8a122218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyank-saksena-b8a122218" height="30" width="40" /></a>
 <a href="https://instagram.com/shreyank_saksena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyank_saksena" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shreyank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shreyank" height="30" width="40" /></a>
+<p>
+
+<h3 align="center">Some Unofficial Coding Handles</h3>
+<p align="center">
 <a href="https://www.codechef.com/users/shreyank_react" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyank_react" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shreyanksaksena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreyanksaksena" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreyank_react" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyank_react" height="30" width="40" /></a>
