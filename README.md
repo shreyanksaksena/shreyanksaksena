@@ -17,9 +17,9 @@
 
 <h3 align="center">- 💬 Ask me about CP , Linux</h3>
 
-<h3 align="center">- 📫 How to reach me <a href={mailto:shreyanksaksena@gmail.com}{shreyanksaksena@gmail.com}/></a></h3>
+<h3 align="center">📫 How to reach me <a href="mailto:shreyanksaksena@gmail.com">shreyanksaksena@gmail.com</a></h3>
 
-<h3 align="left">- ⚡ Fun fact **I smurf a lot so these are just one of official ones and Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee**</h3>
+<h3 align="left">- ⚡ Fun fact I smurf a lot so these are just one of official ones and Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee</h3>
 
 <h3 align="center">Some More Socials If you wanna Connect with me :P</h3>
 <p align="center">
