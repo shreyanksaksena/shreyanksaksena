@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreyanksaksena@gmail.com**
 
-- ⚡ Fun fact **I smurf a lot so My Coding handles are many so these are just one of them**
+- ⚡ Fun fact **I smurf a lot so My Coding handles are many so these are just one of official ones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
