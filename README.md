@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shreyanksaksena@gmail.com**
 
-- ⚡ Fun fact **I smurf a lot so these are just one of official ones**
+- ⚡ Fun fact **I smurf a lot so these are just one of official ones and Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee**
 
 <h3 align="center">Some More Socials If you wanna Connect with me :P</h3>
 <p align="center">
