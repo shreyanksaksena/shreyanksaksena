@@ -13,14 +13,7 @@
 <h3 align="center">🌱 I’m currently learning More of CP and Backend Development Node.js and Kafka</h3>
 <h3 align="center"> 💬 Ask me about CP , Linux</h3>
 <h3 align="center">📫 How to reach me <a href="mailto:shreyanksaksena@gmail.com">shreyanksaksena@gmail.com</a></h3>
-<h3 align="left">⚡ Fun fact I smurf a lot so these are just one of official ones and Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee</h3>
-<h3 align="center">Some Unofficial Coding Handles</h3>
-<p align="center">
-<a href="https://www.codechef.com/users/shreyank_react" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyank_react" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shreyanksaksena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreyanksaksena" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyank_react" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyank_react" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shreyanksaksena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyanksaksena" height="30" width="40" /></a>
-</p>
+<h3 align="left">⚡ Fun fact I smurf a lot and  Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee</h3>
 <h3 align="center">Languages and Tools:</h3>
  <h3 align="center">👨‍💻 Programming and Markup Languages</h3>
 <p align="center">
