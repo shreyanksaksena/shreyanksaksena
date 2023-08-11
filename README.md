@@ -61,6 +61,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanksaksena&show_icons=true&locale=en&layout=compact" alt="shreyanksaksena" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyanksaksena&show_icons=true&locale=en" alt="shreyanksaksena" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanksaksena&" alt="shreyanksaksena" /></p>
-<p align="center">  
+
+<h3 align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wsk8xwd0dw130bcot6hzyp3h3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=09ff00)](https://spotify-github-profile.vercel.app/api/view?uid=wsk8xwd0dw130bcot6hzyp3h3&redirect=true)
-<p>
+
+
