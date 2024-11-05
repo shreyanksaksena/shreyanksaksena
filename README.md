@@ -10,7 +10,7 @@
 <a href="https://instagram.com/shreyank_saksena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyank_saksena" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shreyank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shreyank" height="30" width="40" /></a>
 <p>
-<h3 align="center">🌱 I’m currently learning More of CP and Backend Development Node.js and Kafka</h3>
+<h3 align="center">🌱 I’m currently learning More of CP and Backend Development </h3>
 <h3 align="center"> 💬 Ask me about CP , Linux</h3>
 <h3 align="center">📫 How to reach me <a href="mailto:shreyanksaksena@gmail.com">shreyanksaksena@gmail.com</a></h3>
 <h3 align="left">⚡ Fun fact I smurf a lot and  Yes off course i am too lazy and sleepy all the time so if you meet me ask me for a coffee</h3>
